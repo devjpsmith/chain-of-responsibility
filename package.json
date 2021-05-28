@@ -1,0 +1,11 @@
+{
+  "name": "chain-of-responsibility",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf */*.js & rm app.js",
+    "start": "node app.js"
+  }
+}

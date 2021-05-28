@@ -1,3 +1,6 @@
+# this is a TypeScript project. I don't want to accidentally commit js files
+*.js
+
 # Logs
 logs
 *.log
